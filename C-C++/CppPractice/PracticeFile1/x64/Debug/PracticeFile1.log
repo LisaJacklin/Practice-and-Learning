@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\lisal\Desktop\Practice&Learning\Practice-and-Learning\C-C++\CppPractice\PracticeFile1\Source.cpp(9,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  PracticeFile1.vcxproj -> C:\Users\lisal\Desktop\Practice&Learning\Practice-and-Learning\C-C++\CppPractice\PracticeFile1\x64\Debug\PracticeFile1.exe
