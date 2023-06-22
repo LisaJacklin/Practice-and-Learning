@@ -3,4 +3,11 @@
  ### objective
  to learn more about the many different programming languages that are out there, and how to use them! There are so many that I would love to spend time to explore, that I might as well have my own place to put ideas, examples, tests, and more within and still be able to determine that this language is fundamental, useful, or otherwise cool!
  
- 
+ # Language Breakdown and Info/Updates
+
+ ### Python
+ currently learning how to program basic things within python. I have several sample programs with my notes throughout as well as notsheets included, but no fully operational code from my fingers yet!
+
+ ##### Python References
+ - https://www.w3schools.com/python/default.asp
+- 
