@@ -48,3 +48,33 @@ title
 
 ##############################################################################
 # REGULAR EXPRESSIONS
+
+#re module which allow regular expressions module to be pulled
+import re
+
+#this will show all text with a string that matches the expressions
+#here expressions 1 is the regular expression to match
+#expression 2 is the string to test...
+re.findall (".1.", ".2.")
+
+#note this is all case sensitive upless additional is added
+re.findall(".1.", ".2.", re.IGNORECASE)
+
+"
+in this format,  "a.c" the period means a signle character in a regular expressions
+while in "ab*c" the string must start with a, end with c, and have zero or more instances of b
+
+.  single character
+* start, and end with other characters after start for any instance of it
+.* any character repeated any number of times
+
+"
+
+##############################################################################
+# EXTRACT TEXT FROM HTML WITH REGULAR EXPRESSIONS
+
+
+##############################################################################
+# HTML PARSER FOR WEB SCRAPING IN PY
+
+
