@@ -1,0 +1,50 @@
+##############################################################################
+PROJECT: ZOTERO ACEP OLD CITE WEB SCRAPER
+ALASKA CENTER FOR ENERGY AND POWER
+
+
+AUTHOR:LISA JACKLIN
+LANGUAGE: PYTHON
+
+OBJECTIVE: 
+
+##############################################################################
+
+#NOTE THAT MUCH OF THESE ARE DONE AND PERFORMED WITHIN THE PYTHON IDE
+
+from urllib.request import urlopen #this allows you to open and import data from a url
+
+url = "insert url here"
+
+page = urlopen(url)
+
+page #run the open url so you can now parse the information required
+
+html_bytes = page.read()
+
+html = hyml_bytes.decode("utf-8")
+
+print(html) #this will display the contents of the pages.
+
+
+##############################################################################
+# EXTRACTING TEXT FROM HTML WITH STRING METHOD
+
+#this will allow withdraw of the title within the html to be searched using .find()
+title_index = html.find ("<title>") 
+title_index
+
+#since we don't want the index of each tag, and we are trying to find the index of "title" we must justify this 
+start_index = title_index + len("<title>")
+start_index
+
+#to end the search for the title of the html, which is searching for the html end sign
+end_index = html.find("</title>")
+end_index
+
+#this means that the title will only go from the beginning to end based on the index we have created
+title = html[start_index:end_index]
+title
+
+##############################################################################
+# REGULAR EXPRESSIONS
