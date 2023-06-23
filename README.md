@@ -10,4 +10,5 @@
 
  ##### Python References
  - https://www.w3schools.com/python/default.asp
+- https://realpython.com/python-web-scraping-practical-introduction/
 - 
