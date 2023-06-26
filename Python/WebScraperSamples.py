@@ -77,4 +77,22 @@ while in "ab*c" the string must start with a, end with c, and have zero or more 
 ##############################################################################
 # HTML PARSER FOR WEB SCRAPING IN PY
 
+##############################################################################
+# SCRAPE/EXTRACT PDF DATA 
+
+"
+REQUIRES A FEW PIECES INCLUDING:
+- TABULA-PY LIBRARY TO SCRAPE TEXT FROM PDF FILES
+- RE TO EXTRACT DATA USING REGULAR EXPRESSION
+- PANDAS TO CONSTRUCT AND MANIPULATE PANEL DATA (IF THATS WHAT WE WANT TO DO)
+"
+
+#FIRST INSTALL THE LIBRARY
+pip install tabula-py
+pip install pandas
+
+import tabula as tb
+import pandas as pd
+import re
+
 
