@@ -12,4 +12,5 @@
  - https://www.w3schools.com/python/default.asp
 - https://realpython.com/python-web-scraping-practical-introduction/
 - https://towardsdatascience.com/scrape-data-from-pdf-files-using-python-fe2dc96b1e68
+- https://medium.com/analytics-vidhya/easy-web-scraping-using-python-and-beautifulsoup4-and-saving-files-as-well-html-pages-as-pdf-d4693d77150b
 - 
