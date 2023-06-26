@@ -11,4 +11,5 @@
  ##### Python References
  - https://www.w3schools.com/python/default.asp
 - https://realpython.com/python-web-scraping-practical-introduction/
+- https://towardsdatascience.com/scrape-data-from-pdf-files-using-python-fe2dc96b1e68
 - 
