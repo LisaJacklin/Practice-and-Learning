@@ -13,4 +13,7 @@
 - https://realpython.com/python-web-scraping-practical-introduction/
 - https://towardsdatascience.com/scrape-data-from-pdf-files-using-python-fe2dc96b1e68
 - https://medium.com/analytics-vidhya/easy-web-scraping-using-python-and-beautifulsoup4-and-saving-files-as-well-html-pages-as-pdf-d4693d77150b
+- https://www.tutorialspoint.com/beautiful_soup/beautiful_soup_quick_guide.htm#
+- https://towardsdatascience.com/an-introduction-to-web-scraping-with-python-a2601e8619e5
+- https://python.plainenglish.io/notesdownloader-use-web-scraping-to-download-all-pdfs-with-python-511ea9f55e48
 - 
