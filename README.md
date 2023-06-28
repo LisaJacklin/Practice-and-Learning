@@ -16,4 +16,5 @@
 - https://www.tutorialspoint.com/beautiful_soup/beautiful_soup_quick_guide.htm#
 - https://towardsdatascience.com/an-introduction-to-web-scraping-with-python-a2601e8619e5
 - https://python.plainenglish.io/notesdownloader-use-web-scraping-to-download-all-pdfs-with-python-511ea9f55e48
+- https://blog.aspose.com/words/compare-pdf-files-in-python/
 - 
