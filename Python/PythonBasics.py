@@ -77,5 +77,54 @@ second_name = names[1]
 
 #BASIC OPERATORS
 
+#basic arethmetic operators (add, subtract, multiply, and divide) work as normal
 
+#remainder  which follows the form divident % divisor = remainder (if there is any)
+reminder = 11 % 3
 
+#power relations
+squared = 7 ** 2 #note two multiplies is what results in what would otherwise be a carat
+
+#operators with strings
+#strings can be added together to create different concatenating strings, and multipled as well to repeat a sequence.
+
+#operators with lists
+#similar to how it works with strings, this also works with lists
+
+print([1,2,3] * 3) #this will result in 123 being printed 3 times
+#adding together two lists also works
+
+#exercise
+x = object()
+y = object()
+
+# TODO: change this code
+x_list = [x] * 10
+y_list = [y] * 10
+big_list = x_list + y_list
+
+print("x_list contains %d objects" % len(x_list))
+print("y_list contains %d objects" % len(y_list))
+print("big_list contains %d objects" % len(big_list))
+
+# testing code
+if x_list.count(x) == 10 and y_list.count(y) == 10:
+    print("Almost there...")
+if big_list.count(x) == 10 and big_list.count(y) == 10:
+    print("Great!")
+
+#STRING FORMATTING
+#strings use classic c stle formatting
+
+name = 'john' 
+print ('hello, %s' % name)
+#if you have more than one variable, a tuple with parenthesis can be used and must be placed in correct order
+
+#other string formating pieces
+#%s - String (or any object with a string representation, like numbers)
+#%d - Integers
+#%f - Floating point numbers
+#%.<number of digits>f - Floating point numbers with a fixed amount of digits to the right of the dot.
+#%x/%X - Integers in hex representation (lowercase/uppercase)
+
+#BASIC STRING OPERATIONS
