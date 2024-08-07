@@ -17,3 +17,16 @@ string concatination is a thing!!!
 
 ifelse strings use 'end' in ruby rather than fi
 
+there is also a loop called a unless which uses else and end as well.
+
+### Logic operators...
+
+- && and
+- || or
+- ! not
+
+### Loops
+- while loops exist
+- until loops are new and work while conditions are true/false
+- for loops exist
+
