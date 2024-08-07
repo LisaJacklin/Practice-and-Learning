@@ -9,4 +9,11 @@ chef.io is where I am taking training and where many of my notes are stemming fr
 irb sets up the interactive ruby session (so long as ruby is already installed)
 ruby -v will check for the version being operated.
 
+In order to add in variables into a string, #{} is used.
+ puts is the key word to print anything on a screen when in scripts etc...
+
+string concatination is a thing!!!
+	- strings can also be manipulated with: .reverse .length .downcase .upcase
+
+ifelse strings use 'end' in ruby rather than fi
 
