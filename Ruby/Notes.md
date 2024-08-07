@@ -30,3 +30,23 @@ there is also a loop called a unless which uses else and end as well.
 - until loops are new and work while conditions are true/false
 - for loops exist
 
+### Iterators and Bocks
+- need to study blocks some more to understand...Best way for my brain to think about these 
+    are like quicker more stylized versions of for loops that will print things in a succession based
+    on the brackets.
+
+### Arrays
+- similar to C, it appears that the primary way of working with data is arrays
+- here to remove pop or delete_at is used.
+
+- another helpful command is .include? This can allow you to search for a specific value within the set.
+
+#### Some additional commands...
+- .sort
+- .flatten (this is for when its setup like a matrix)
+- .each
+- .map
+
+Hashes are a thing too! (Go back to Data Engineering for more info on how i've used these in the past)
+
+sets and ranges are unique to Ruby...
