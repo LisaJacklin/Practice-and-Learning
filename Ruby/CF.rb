@@ -89,8 +89,14 @@ end
 
 #within these classes objects can be created
 class Car
+	#this creates a new object within this function
 	def initialize
 		puts "the object has now been created"
+	end
+
+	#this allows fr instance variables
+	def initialize(brand)
+		@brand = brand
 	end
 end
 
@@ -99,6 +105,39 @@ car = Car.new
 #just like you would with most other programs.
 
 #instance variables
+#take a look at the second function within class, here the instance variable is the brand
+car = Car.new("Audi")
 
+#instance and class methods
+
+class greetings
+#this is the class method
+	def self.class_greetings
+		puts "Hello this is a class method"
+	end
+
+#this is the instance method
+	def instance_greetings
+		puts "Hello this is an instance method"
+	end
+end
+
+#now for calling them:
+greetings.class.greetings
+#output: hello this is a class method
+greetings.instance_greetings
+#this results in an error undefined method.
+
+#the error with this is due to the fact that you need to call an instance method first and only then can you call the instance.
+ins = greetings.new
+ins.instance_greetings
+#how the output is hellow this is an instance method.
+
+
+#mixins
+#these allow you to inherit functionality from multiple places by code being wrapped into a module that can be added to one or more
+#classes. These can be exteneded or not depending on the module methods
+
+#look into this a bit more! This is a bit new to me but I feel like this is similar to header files...
 
 
