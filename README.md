@@ -18,3 +18,12 @@
 - https://python.plainenglish.io/notesdownloader-use-web-scraping-to-download-all-pdfs-with-python-511ea9f55e48
 - https://blog.aspose.com/words/compare-pdf-files-in-python/
 - 
+
+
+### Ruby
+8/24 looking into learning to better understand Ruby for the potential use of the programming language in juction with Chef.
+
+#### References, Notes and Help
+- https://chef.io
+	This is were I'm learning and taking a bunch of lesons on the basics of Chef and how Ruby works with Chef to automate items and functions
+	within networks.
