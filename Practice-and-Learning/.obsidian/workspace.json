@@ -8,32 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b3cb9fc05b71b37e",
+            "id": "30b04bca7f5f6ca4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "02. CHEF/Chef Habitat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a79f3c74f52e13bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. CHEF/Chef Infra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbbf3f4304f7977e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. CHEF/Chef Inspec.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4ac2bfdfdd45716",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. CHEF/Secure Infrastructure w Chef Automate.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "5edd5a15947b68ba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0a87cad9d2067b68",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "02. CHEF/Secure Infrastructure w Chef Automate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "02. CHEF/Secure Infrastructure w Chef Automate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "02. CHEF/Secure Infrastructure w Chef Automate.md"
               }
             }
           }
@@ -160,8 +183,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3cb9fc05b71b37e",
+  "active": "a4ac2bfdfdd45716",
   "lastOpenFiles": [
-    "Welcome.md"
+    "02. CHEF/Chef Inspec.md",
+    "02. CHEF/Chef Infra.md",
+    "02. CHEF/Chef Habitat.md",
+    "02. CHEF/Secure Infrastructure w Chef Automate.md",
+    "Welcome.md",
+    "01. LANGUAGES/01.1 RUBY",
+    "02. CHEF",
+    "01. LANGUAGES"
   ]
 }
